@@ -1,4 +1,4 @@
-# Mimic: Development Roadmap
+# RPG Game: Development Roadmap
 
 ---
 
